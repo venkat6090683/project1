@@ -1,4 +1,4 @@
 public static void main(String[] args) {
-	System.out.println("sai kumar");
-	System.out.println("venkat");
+	System.out.println("sreelu");
+	System.out.println("uday");
 }
